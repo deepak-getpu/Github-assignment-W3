@@ -1,7 +1,7 @@
 package arrayCase;
 
 public class ArrayStudentName {
-
+// new code
 		public static void main(String[] args) {
 			
 //			String studentName1 = "Tom Smith";
